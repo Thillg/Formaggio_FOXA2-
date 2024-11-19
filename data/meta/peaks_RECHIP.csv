@@ -1,0 +1,3 @@
+file,cellLine,treatment,target,replicate
+./peaks/PC3_RECHIP_F1_RECHIP_F2_R1_peaks.narrowPeak,PC3,WT,FOXA2,1
+./peaks/PC3_RECHIP_INPUT_R1_peaks.narrowPeak,PC3,WT,FOXA1,1

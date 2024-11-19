@@ -1,0 +1,3 @@
+file,cellLine,treatment,target,replicate
+./peaks/MSKPCa1_foxa1_R1_peaks.broadPeak,MSKPCa,WT,FOXA1,1
+./peaks/MSKPCa1_foxa2_R1_peaks.broadPeak,MSKPCa,WT,FOXA2,1

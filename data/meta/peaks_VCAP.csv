@@ -1,0 +1,11 @@
+file,cellLine,treatment,target,replicate
+./peaks/VCAP_CHIP_FOXA1_R1_peaks.broadPeak,VCAP,WT,FOXA1,1
+./peaks/VCAP_CHIP_H3K27_R1_peaks.broadPeak,VCAP,WT,H3K27AC,1
+./peaks/VCAP_CTR2_FOXA1_S9_L001_R1_001_R1_peaks.broadPeak,VCAP,CTR,FOXA1,2
+./peaks/VCAP_CTR2_H3K27ac_S10_L001_R1_001_R1_peaks.broadPeak,VCAP,CTR,H3K27AC,2
+./peaks/VCAP_FOXA2_F1_R1_peaks.broadPeak,VCAP,F2OE,FOXA1,1
+./peaks/VCAP_FOXA2_F2_R1_peaks.broadPeak,VCAP,F2OE,FOXA2,1
+./peaks/VCAP_FOXA2_H3K27_R1_peaks.broadPeak,VCAP,F2OE,H3K27AC,1
+./peaks/FOXA1_VACP_FOXA2_REP2_S11_L001_R1_001_R1_peaks.broadPeak,VCAP,F2OE,FOXA1,2
+./peaks/FOXA2_VACP_FOXA2_REP2_S12_L001_R1_001_R1_peaks.broadPeak,VCAP,F2OE,FOXA2,2
+./peaks/H3K27ac_VACP_FOXA2_REP2_S13_L001_R1_001_R1_peaks.broadPeak,VCAP,F2OE,H3K27AC,2
