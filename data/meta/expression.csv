@@ -1,0 +1,13 @@
+file,cellLine,condition,replicate,batch
+./expression/PC3/PC3_PLKO_1/quant.sf,PC3,PLKO,1,1
+./expression/PC3/PC3_PLKO_2/quant.sf,PC3,PLKO,2,1
+./expression/PC3/PC3_PLKO_3/quant.sf,PC3,PLKO,3,1
+./expression/PC3/PC3_DKD_1/quant.sf,PC3,DKD,1,1
+./expression/PC3/PC3_DKD_2/quant.sf,PC3,DKD,2,1
+./expression/PC3/PC3_DKD_3/quant.sf,PC3,DKD,3,1
+./expression/PC3/PC3_DMSO_1/quant.sf,PC3,DMSO,1,1
+./expression/PC3/PC3_DMSO_2/quant.sf,PC3,DMSO,2,1
+./expression/PC3/PC3_DMSO_3/quant.sf,PC3,DMSO,3,1
+./expression/PC3/PC3_T_1/quant.sf,PC3,T,1,1
+./expression/PC3/PC3_T_2/quant.sf,PC3,T,2,1
+./expression/PC3/PC3_T_3/quant.sf,PC3,T,3,1
