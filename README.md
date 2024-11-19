@@ -3,14 +3,15 @@ Code and Data for FOXA2 project
 
 ## Directory structure
 ```bash
-└─ notebooks/:
+└─ Analysis/:
 |   └─ R/: helper scripts to process the results from ChIPseq and RNAseq pipelines and create plots
 |   └─ tests/: commandline scripts to run nf-core pipelines (ChIPseq and RNAseq) and create heatmaps (deepTools) 
-|   └─ BioID_Score.R : helper script to calculate ssGSEA of BioID core proteins
 └─ data/:
 |   └─ meta: input files/tables to run the scripts
 |   └─ Utils: Other utilities required to execute the scripts
 ````
+## Analysis
+R (version 4.3.1) scripts executed in RStudio IDE are provided to reproduce the analyses in the paper. Additionally, bash scripts containing a sequence of commands to execute nextflow nf-core pipelines and deepTools.
 
 
 
