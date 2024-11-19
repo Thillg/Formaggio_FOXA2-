@@ -1,0 +1,9 @@
+file,cellLine,treatment,target,replicate,comparison
+./bigWigAverage/H660_DMSO_FOXA1_R1_noMerge.tsv,H660,DMSO,FOXA1,1,T_DMSO_F1_R1
+./bigWigAverage/H660_DMSO_FOXA1_R2_noMerge.tsv,H660,DMSO,FOXA1,2,T_DMSO_F1_R2
+./bigWigAverage/H660_DMSO_FOXA2_R1_noMerge.tsv,H660,DMSO,FOXA2,1,T_DMSO_F2_R1
+./bigWigAverage/H660_DMSO_FOXA2_R2_noMerge.tsv,H660,DMSO,FOXA2,2,T_DMSO_F2_R2
+./bigWigAverage/H660_T_FOXA1_R1_noMerge.tsv,H660,T,FOXA1,1,T_DMSO_F1_R1
+./bigWigAverage/H660_T_FOXA1_R2_noMerge.tsv,H660,T,FOXA1,2,T_DMSO_F1_R2
+./bigWigAverage/H660_T_FOXA2_R1_noMerge.tsv,H660,T,FOXA2,1,T_DMSO_F2_R1
+./bigWigAverage/H660_T_FOXA2_R2_noMerge.tsv,H660,T,FOXA2,2,T_DMSO_F2_R2

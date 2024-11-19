@@ -1,0 +1,15 @@
+file,cellLine,treatment,target,replicate,comparison
+./bigWigAverage/LnCap_DMSO_FOXA1_R_1.tsv,LnCaP,DMSO,FOXA1,1,T_Vs_DMSO
+./bigWigAverage/LnCap_DMSO_FOXA1_R_2.tsv,LnCaP,DMSO,FOXA1,2,T_Vs_DMSO
+./bigWigAverage/LnCap_T_FOXA1_R_1.tsv,LnCaP,T,FOXA1,1,T_Vs_DMSO
+./bigWigAverage/LnCap_T_FOXA1_R_2.tsv,LnCaP,T,FOXA1,2,T_Vs_DMSO
+./bigWigAverage/PC3_DMSO_FOXA1_R_1.tsv,PC3,DMSO,FOXA1,1,T_Vs_DMSO
+./bigWigAverage/PC3_DMSO_FOXA1_R_2.tsv,PC3,DMSO,FOXA1,2,T_Vs_DMSO
+./bigWigAverage/PC3_DMSO_FOXA2_R_1.tsv,PC3,DMSO,FOXA2,1,T_Vs_DMSO
+./bigWigAverage/PC3_DMSO_FOXA2_R_2.tsv,PC3,DMSO,FOXA2,2,T_Vs_DMSO
+./bigWigAverage/PC3_T_FOXA1_R_1.tsv,PC3,T,FOXA1,1,T_Vs_DMSO
+./bigWigAverage/PC3_T_FOXA1_R_2.tsv,PC3,T,FOXA1,2,T_Vs_DMSO
+./bigWigAverage/PC3_T_FOXA2_R_1.tsv,PC3,T,FOXA2,1,T_Vs_DMSO
+./bigWigAverage/PC3_T_FOXA2_R_2.tsv,PC3,T,FOXA2,2,T_Vs_DMSO
+./bigWigAverage/PC3_WT_H3K27AC_R_1.tsv,PC3,WT,H3K27AC,1,T_Vs_DMSO
+./bigWigAverage/LnCaP_WT_H3K27AC_R_1.tsv,LnCaP,WT,H3K27AC,1,T_Vs_DMSO

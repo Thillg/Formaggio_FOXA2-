@@ -1,0 +1,4 @@
+file,cellLine,treatment,target,replicate,comparison
+./bigWigAverage/MSKPCa1_foxa1_R1.tsv,MSKPCa1,WT,FOXA1,1,WT
+./bigWigAverage/MSKPCa1_foxa2_R1.tsv,MSKPCa1,WT,FOXA2,1,WT
+./bigWigAverage/MSKPCa1_input_R1.tsv,MSKPCa1,WT,INPUT,1,WT

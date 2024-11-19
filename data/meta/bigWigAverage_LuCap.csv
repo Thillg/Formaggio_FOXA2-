@@ -1,0 +1,4 @@
+file,cellLine,treatment,target,replicate,comparison
+./bigWigAverage/PDX_145_FOXA_1_R1.tsv,PDX_145,WT,FOXA1,1,WT
+./bigWigAverage/PDX_145_FOXA_2_R1.tsv,PDX_145,WT,FOXA2,1,WT
+./bigWigAverage/PDX_145_IGG_R1.tsv,PDX_145,WT,IGG,1,WT
