@@ -1,10 +1,10 @@
 # Formaggio_FOXA2
-Code and Data for FOXA2 project
+Code and Data for FOXA2 project ("Targeting FOXA1 and FOXA2 Disrupts the Lineage-Specific Oncogenic Output Program in Prostate Cancer ")
 
 ## Directory structure
 ```bash
 └─ Analysis/:
-|   └─ R/: helper scripts to process the results from ChIPseq and RNAseq pipelines and create plots
+|   └─ R/: helper scripts to process the results from ChIPseq and RNAseq pipelines and generate plots
 |   └─ tests/: commandline scripts to run nf-core pipelines (ChIPseq and RNAseq) and create heatmaps (deepTools) 
 └─ data/:
 |   └─ meta: input files/tables to run the scripts
