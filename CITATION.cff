@@ -1,0 +1,16 @@
+abstract: Targeting FOXA1 and FOXA2 Disrupts the Lineage-Specific Oncogenic Output Program in Prostate Cancer
+authors:
+- family-names: Thillg
+cff-version: 1.2.0
+date-released: '2025-08-04'
+doi: 10.5281/zenodo.16740789
+identifiers:
+- type: swh
+  value: swh:1:dir:1f8f73848c3e5550b210bf4004025ad0d77bd51a;origin=https://doi.org/10.5281/zenodo.16740788;visit=swh:1:snp:339a77f615d10520f8ace68ad5b0e632ca7366bb;anchor=swh:1:rel:d9682151af0788584162b3b73b60d621a4d4e87a;path=Thillg-Formaggio_FOXA2--035f794
+license:
+- cc-by-4.0
+message: If you use this software, please cite it using the metadata from this file.
+repository-code: https://github.com/Thillg/Formaggio_FOXA2-/tree/v1.0.0
+title: 'Thillg/Formaggio_FOXA2-: Manuscript Publication'
+type: software
+version: v1.0.0
